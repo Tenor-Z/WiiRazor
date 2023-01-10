@@ -14,7 +14,4 @@ DONE TO ANY CONSOLES! YOU RUN THE RESPONSIBILITY OF BRICKING YOUR DEVICE BY INST
 That being said, if you purchased this software somehow, you have been scammed, and you should demand your money back before it's too late.
 
 # How to Install
--Download the .Dol file, .xml file and image file
--Place it in /apps/WiiRazor on your SD card. If the directory doesn't exist, create it and place the files there
--Go to the Homebrew Channel on your Wii and select WiiRazor
--Wait 15-20 seconds and the destruction process will begin.
+-Download the .Dol file, .xml file and image file. Place it in /apps/WiiRazor on your SD card. If the directory doesn't exist, create it and place the files there. Boot up the console and go to the Homebrew Channel on your Wii and select WiiRazor. Wait 15-20 seconds and the destruction process will begin.
