@@ -4,6 +4,8 @@ A trojan wiper program/bricker for the Nintendo Wii
 # What is WiiRazor?
 WiiRazor is my method of creating a bricker program for the Wii. Upon startup of the program, it will search for important system files, overwrite them, and disassociate said directories with the operating system (IOS (not to be confused with Apple's IOS))
 
+The source code has been compiled using DevKitPro (the source will never be released!)
+
 I had written this software because malware is what brought me into the cybersecurity field and I felt that with the scare-tactic that was Project Dandelion in 2019, it was about time developers could be warned of potential infections of homebrewed applications. That is why I included a splash screen for this, so it could be identified the moment an infected app was ran and the user could take measures to leave.
 
 This program will only work on homebrewed Wii devices, like any other custom application would.
