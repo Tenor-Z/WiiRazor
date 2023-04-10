@@ -10,7 +10,7 @@ I had written this software because malware is what brought me into the cybersec
 
 This program will only work on homebrewed Wii devices, like any other custom application would.
 ---------------------------------------------------------------------------------------------
-THIS IS FOR EDUCATIONAL PURPOSES ONLY! I DO NOT TAKE RESPONSIBILITY TO ANY UNINTENTIONAL HARM
+THIS IS FOR EDUCATIONAL PURPOSES ONLY! I DO NOT TAKE RESPONSIBILITY FOR ANY UNINTENTIONAL HARM
 DONE TO ANY CONSOLES! YOU RUN THE RESPONSIBILITY OF BRICKING YOUR DEVICE BY INSTALLING WIIRAZOR
 ---------------------------------------------------------------------------------------------
 That being said, if you purchased this software somehow, you have been scammed, and you should demand your money back before it's too late.
