@@ -12,10 +12,8 @@ I had written this software because malware is what brought me into the cybersec
 This program will only work on homebrewed Wii devices, like any other custom application would. Since the NAND is restricted on devices without custom firmware, a cIOS with NAND access is required for the program to work. Since the steps to accomplish such are included in almost any modding guide, this implies that the program should work on any hacked device, given that everything has been initalized successfully.
 
 # Disclaimer
----------------------------------------------------------------------------------------------
 THIS IS FOR EDUCATIONAL PURPOSES ONLY! I DO NOT TAKE RESPONSIBILITY FOR ANY UNINTENTIONAL HARM
 DONE TO ANY CONSOLES! YOU RUN THE RESPONSIBILITY OF BRICKING YOUR DEVICE BY INSTALLING WIIRAZOR
----------------------------------------------------------------------------------------------
 
 # How to Install
 ## How to Install
