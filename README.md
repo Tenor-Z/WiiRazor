@@ -16,7 +16,6 @@ THIS IS FOR EDUCATIONAL PURPOSES ONLY! I DO NOT TAKE RESPONSIBILITY FOR ANY UNIN
 DONE TO ANY CONSOLES! YOU RUN THE RESPONSIBILITY OF BRICKING YOUR DEVICE BY INSTALLING WIIRAZOR
 
 # How to Install
-## How to Install
 - Download the `.Dol` file, `.xml` file, and image file.
 - Place the files in `/apps/WiiRazor` on your SD card. If the directory doesn't exist, create it and place the files there.
 - Boot up the console. Go to the Homebrew Channel on your Wii or load up the official forwarder channel on the Wii Menu.
