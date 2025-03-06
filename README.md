@@ -22,3 +22,31 @@ DONE TO ANY CONSOLES! YOU RUN THE RESPONSIBILITY OF BRICKING YOUR DEVICE BY INST
 - If booting from the Homebrew Channel, select **WiiRazor** from the list of applications.
 - Wait 15-20 seconds, and the destruction process will begin.
 
+## Compiling Instructions
+
+1. **Install DevKitPro**  
+   - Download and install DevKitPro from the official website: [DevKitPro Installation](https://devkitpro.org/wiki/Getting_Started).
+   - Follow the setup instructions to ensure that DevKitPro is properly installed.
+
+2. **Download the Source Code**  
+   - Clone or download the repository containing the WiiRazor source code to your local machine.
+
+3. **Set Up the Build Environment**  
+   - Ensure that your system's environment variables are set up correctly for DevKitPro.  
+   - If using a terminal, you may need to add `devkitPro` to your system's `PATH`.
+
+4. **Compile the Project**  
+   - Navigate to the directory containing the source code and the Makefile.
+   - Run the following command to compile the project:
+     ```bash
+     make
+     ```
+
+5. **Locate the Compiled Files**  
+   - After the compilation process finishes, the output files (such as the `.dol` file) will be placed in the `./bin/` directory.
+
+6. **Transfer Files to Your SD Card**  
+   - Copy the compiled `.dol`, `.xml`, and image files to the `/apps/WiiRazor/` directory on your SD card.
+
+7. **Run the Application**  
+   - Insert the SD card into your Wii console and boot into the Homebrew Channel. Select **WiiRazor** from the list of apps to run the program.
